@@ -12,3 +12,4 @@ dependencies:
   - pandas
   - scipy
   - chart_studio
+  - pickle
