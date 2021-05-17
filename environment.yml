@@ -1,6 +1,5 @@
 name: base
 channels:
-  - conda-forge
   - defaults
 dependencies:
   - folium
@@ -10,6 +9,3 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
-  - scipy
-  - chart_studio
-  - pickle
