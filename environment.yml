@@ -1,0 +1,11 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - folium
+  - plotly
+  - geopandas
+  - ipython
+  - matplotlib
+  - numpy
+  - pandas
