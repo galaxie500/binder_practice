@@ -1,0 +1,14 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - folium
+  - plotly
+  - geopandas
+  - ipython
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - chart_studio
